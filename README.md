@@ -4,10 +4,12 @@
 
 ### Finalizada a API DotNet realizando um CRUD completo.
 
-C - Create
-R - Read
-U - Update
-D - Delete
+<ul>
+ <li>C - Create</li>
+ <li>R - Read</li>
+ <li>U - Update</li>
+ <li>D - Delete</li>
+</ul>
 
 ![Capturar](https://user-images.githubusercontent.com/103784814/206767582-6005cd7d-c6db-4fef-bccf-aa8572a454db.JPG)
  />
